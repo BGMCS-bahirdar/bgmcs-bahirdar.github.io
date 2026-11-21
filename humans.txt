@@ -1,0 +1,15 @@
+/* TEAM */
+Design, development and upkeep: Reyan Ahmed Ayele
+Role: Volunteer web developer, Class of 2017 E.C.
+Location: Ethiopia
+
+/* THANKS */
+Blessed Gebremichael Catholic Secondary School, Bahir Dar
+
+/* SITE */
+Last update: 2026/11/16
+Language: English, with Amharic
+Standards: HTML, CSS
+Components: Google Fonts (Alegreya, Alegreya Sans, Noto Serif Ethiopic)
+Hosting: GitHub Pages
+Notes: First draft made with an AI assistant; facts checked with the school.

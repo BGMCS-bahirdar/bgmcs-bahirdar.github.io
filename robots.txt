@@ -1,0 +1,4 @@
+# Test mode: asks search engines not to index the site at its github.io address.
+# When the real domain (bgmcs.edu.et) is set up, replace this file with one that allows indexing.
+User-agent: *
+Disallow: /
